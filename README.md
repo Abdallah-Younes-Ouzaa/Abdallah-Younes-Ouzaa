@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Abdallah Younes Ouzaa]
+# Hi 👋, I'm Abdallah Younes Ouzaa
 
 <h2 align="center">Computer science studente</h2>
 
